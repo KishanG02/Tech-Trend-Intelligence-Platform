@@ -1,0 +1,9 @@
+{
+    "source": "newsapi",
+    "keyword": "Databricks",
+    "ingestion_timestamp": "2026-06-08T23:50:45.373321",
+    "title": "ygg 0.8.59",
+    "description": "Type-friendly utilities for moving data between Python objects, Arrow, Polars, Pandas, Spark, and Databricks",
+    "published_at": "2026-06-07T19:15:05Z",
+    "url": "https://pypi.org/project/ygg/0.8.59/"
+}

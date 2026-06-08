@@ -1,0 +1,9 @@
+{
+    "source": "newsapi",
+    "keyword": "Azure",
+    "ingestion_timestamp": "2026-06-08T23:50:44.858777",
+    "title": "Show HN: Nightwatch, The open-source, read-only AI SRE",
+    "description": "nightwatch is a local-first, read-only layer on top of your monitoring. it groups alert storm into incidents, flags noisy checks and has an agent that can investigate for you live systems. You can e.g. jump from the incident into the agent directly.the reason\u2026",
+    "published_at": "2026-06-07T20:24:36Z",
+    "url": "https://github.com/ninoxAI/nightwatch"
+}

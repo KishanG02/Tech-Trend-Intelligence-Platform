@@ -1,6 +1,14 @@
 # Kafka Configuration
 
 KAFKA_BROKER = "localhost:9092"
+
+# Kafka Topics
+
+NEWS_TOPIC = "news_data"
+YOUTUBE_TOPIC = "youtube_data"
+TREND_TOPIC = "trend_data"
+
+# Legacy topic (optional)
 KAFKA_TOPIC = "tech_trends"
 
 # AWS (future)

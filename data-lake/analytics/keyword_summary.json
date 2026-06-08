@@ -1,0 +1,11 @@
+{
+    "total_articles": 49,
+    "articles_per_keyword": {
+        "Artificial Intelligence": 6,
+        "Databricks": 8,
+        "Kafka": 8,
+        "Azure": 9,
+        "AWS": 9,
+        "Cloud Computing": 9
+    }
+}

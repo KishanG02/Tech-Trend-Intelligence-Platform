@@ -1,0 +1,9 @@
+{
+    "source": "newsapi",
+    "keyword": "Kafka",
+    "ingestion_timestamp": "2026-06-08T23:50:45.903750",
+    "title": "system-design added to PyPI",
+    "description": "system-design \u2014 Architecture Intelligence Engine: turn any repo into a 3D architecture graph",
+    "published_at": "2026-06-07T07:32:29Z",
+    "url": "https://pypi.org/project/system-design/"
+}

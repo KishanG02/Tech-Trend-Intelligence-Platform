@@ -1,0 +1,9 @@
+{
+    "source": "newsapi",
+    "keyword": "Azure",
+    "ingestion_timestamp": "2026-06-08T23:50:44.858830",
+    "title": "Log File Analysis: Track AI Bots & Fix Crawl Gaps | Similarweb",
+    "description": "Server logs are the only data source that records every AI bot visit to your site in real time: no sampling, no inference, no delay. This guide explains how to extract AI bot logs from six major platforms, which fields to track across each platform, and how t\u2026",
+    "published_at": "2026-06-07T20:15:46Z",
+    "url": "https://www.similarweb.com/blog/marketing/geo/log-file-analysis/"
+}

@@ -1,0 +1,9 @@
+{
+    "source": "newsapi",
+    "keyword": "Kafka",
+    "ingestion_timestamp": "2026-06-08T23:50:45.904462",
+    "title": "Show HN: About Lightweight, S3-compatible object storage",
+    "description": "Lightweight, S3-compatible object storage server with built-in web dashboard. Single binary, low memory, encryption at rest.\n\nComments URL: https://news.ycombinator.com/item?id=48432651\nPoints: 1\n# Comments: 0",
+    "published_at": "2026-06-07T07:20:29Z",
+    "url": "https://kodiqa-solutions.github.io/VaultS3/"
+}

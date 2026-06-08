@@ -1,0 +1,9 @@
+{
+    "source": "newsapi",
+    "keyword": "Databricks",
+    "ingestion_timestamp": "2026-06-08T23:50:45.374113",
+    "title": "Is managing a data BI project complicated? Challenges, big mistakes, frameworks and real lessons from big companies",
+    "description": "Managing a data BI project can look simple from the outside: connect to data, create a model, build dashboards, and publish reports. In reality, a BI project is rarely only about dashboards. It is about business definitions, data quality, governance, architec\u2026",
+    "published_at": "2026-06-07T12:49:05Z",
+    "url": "https://www.c-sharpcorner.com/article/is-managing-a-data-bi-project-complicated-challenges-big-mistakes-frameworks/"
+}

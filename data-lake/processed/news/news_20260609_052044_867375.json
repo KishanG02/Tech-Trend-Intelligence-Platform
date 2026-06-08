@@ -1,0 +1,9 @@
+{
+    "source": "newsapi",
+    "keyword": "Azure",
+    "ingestion_timestamp": "2026-06-08T23:50:44.858667",
+    "title": "mcp-devops-onpremise 0.3.0",
+    "description": "MCP server for on-premises Azure DevOps \u2014 browse repositories, pull requests, work items, and wikis.",
+    "published_at": "2026-06-07T20:40:22Z",
+    "url": "https://pypi.org/project/mcp-devops-onpremise/0.3.0/"
+}

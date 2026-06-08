@@ -1,0 +1,9 @@
+{
+    "source": "newsapi",
+    "keyword": "Kafka",
+    "ingestion_timestamp": "2026-06-08T23:45:08.167478",
+    "title": "amgi-kafka-event-source-mapping 0.40.0",
+    "description": "Kafka event source mapping adaptor for AMGI applications",
+    "published_at": "2026-06-07T16:49:50Z",
+    "url": "https://pypi.org/project/amgi-kafka-event-source-mapping/0.40.0/"
+}
