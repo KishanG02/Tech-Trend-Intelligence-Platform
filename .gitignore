@@ -25,3 +25,6 @@ data/processed/
 
 # Jupyter
 .ipynb_checkpoints/
+
+# Generated analytics
+data-lake/analytics/ai_summary.json
