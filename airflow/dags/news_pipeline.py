@@ -67,6 +67,14 @@ with DAG(
         """
     )
 
+    ai_summary = BashOperator(
+        task_id="ai_summary",
+        bash_command="""
+        cd /opt/airflow/project &&
+        python -m ai.trend_report_generator
+        """
+    )
+
     (
         fetch_news
         >> validate_news
@@ -75,4 +83,5 @@ with DAG(
         >> trend_scoring
         >> leaderboard
         >> unified_trends
+        >> ai_summary
     )

@@ -85,6 +85,7 @@ page = st.sidebar.radio(
         "Sentiment Analytics",
         "Top Channels",
         "Pipeline Health"
+        "AI Insights"
     ]
 )
 
@@ -429,6 +430,29 @@ elif page == "Pipeline Health":
     st.success("YouTube Pipeline Running")
     st.success("Sentiment Engine Running")
     st.success("Unified Trend Engine Running")
+
+# =====================================================
+
+# AI Summary
+
+# =====================================================
+
+elif page == "AI Insights":
+
+    st.subheader("🤖 AI Trend Intelligence")
+
+    with open(
+        ANALYTICS_PATH / "ai_summary.json"
+    ) as f:
+        ai_summary = json.load(f)
+
+    st.info(
+        f"Generated: {ai_summary['generated_at']}"
+    )
+
+    st.markdown(
+        ai_summary["summary"]
+    )
 
 # =====================================================
 

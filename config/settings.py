@@ -1,3 +1,5 @@
+import os
+
 # Kafka Configuration
 
 KAFKA_BROKER = os.getenv(
