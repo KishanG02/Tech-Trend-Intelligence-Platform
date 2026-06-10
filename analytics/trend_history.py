@@ -32,7 +32,7 @@ with open(TREND_FILE) as f:
 # ====================================
 
 today = datetime.now().strftime(
-    "%Y-%m-%d"
+    "%Y-%m-%d %H:%M:%S"
 )
 
 rows = []
@@ -40,7 +40,7 @@ rows = []
 for item in trend_scores:
 
     rows.append({
-        "date": today,
+        "timestamp": timestamp,
         "keyword": item["keyword"],
         "news_score": item["news_score"],
         "youtube_score": item["youtube_score"],
