@@ -74,6 +74,18 @@ top_channels_df = pd.DataFrame(top_channels)
 
 unified_df = pd.DataFrame(unified_scores)
 
+try:
+    with open(
+        ANALYTICS_PATH / "ai_summary.json"
+    ) as f:
+        ai_summary = json.load(f)
+
+except FileNotFoundError:
+    ai_summary = {
+        "summary":
+        "AI summary not available yet. Run the pipeline first."
+    }
+
 # =====================================================
 
 # SIDEBAR
