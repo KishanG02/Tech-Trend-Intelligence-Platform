@@ -19,6 +19,16 @@
 
 <br/>
 
+---
+
+## 🚀 Live Demo
+
+> 🔗 **[https://ai-resume-intelligence-kxv2gowfesfmj5reqbuwqt.streamlit.app/](https://ai-trend-intelligence-platform-84tdyz8glqspqdrsnhj27q.streamlit.app/)**
+
+---
+
+<br/>
+
 [🚀 Quick Start](#-quick-start) · [🏗️ Architecture](#️-architecture) · [✨ Features](#-features) · [📊 Dashboard](#-dashboard-modules) · [🛠️ Tech Stack](#️-tech-stack) · [🤝 Contributing](#-contributing)
 
 </div>
