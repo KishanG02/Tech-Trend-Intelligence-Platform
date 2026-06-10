@@ -1,0 +1,8 @@
+kafka-python
+requests
+pandas
+python-dotenv
+vaderSentiment
+groq
+boto3
+scikit-learn

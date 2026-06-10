@@ -1,0 +1,43 @@
+date,keyword,predicted_score
+2026-06-12,Azure,147.61
+2026-06-13,Azure,147.61
+2026-06-14,Azure,147.61
+2026-06-15,Azure,147.61
+2026-06-16,Azure,147.61
+2026-06-17,Azure,147.61
+2026-06-18,Azure,147.61
+2026-06-12,Kafka,139.0
+2026-06-13,Kafka,139.0
+2026-06-14,Kafka,139.0
+2026-06-15,Kafka,139.0
+2026-06-16,Kafka,139.0
+2026-06-17,Kafka,139.0
+2026-06-18,Kafka,139.0
+2026-06-12,AWS,134.94
+2026-06-13,AWS,134.94
+2026-06-14,AWS,134.94
+2026-06-15,AWS,134.94
+2026-06-16,AWS,134.94
+2026-06-17,AWS,134.94
+2026-06-18,AWS,134.94
+2026-06-12,Databricks,124.33
+2026-06-13,Databricks,124.33
+2026-06-14,Databricks,124.33
+2026-06-15,Databricks,124.33
+2026-06-16,Databricks,124.33
+2026-06-17,Databricks,124.33
+2026-06-18,Databricks,124.33
+2026-06-12,Cloud Computing,120.41
+2026-06-13,Cloud Computing,120.41
+2026-06-14,Cloud Computing,120.41
+2026-06-15,Cloud Computing,120.41
+2026-06-16,Cloud Computing,120.41
+2026-06-17,Cloud Computing,120.41
+2026-06-18,Cloud Computing,120.41
+2026-06-12,Artificial Intelligence,94.55
+2026-06-13,Artificial Intelligence,94.55
+2026-06-14,Artificial Intelligence,94.55
+2026-06-15,Artificial Intelligence,94.55
+2026-06-16,Artificial Intelligence,94.55
+2026-06-17,Artificial Intelligence,94.55
+2026-06-18,Artificial Intelligence,94.55

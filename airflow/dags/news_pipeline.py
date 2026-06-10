@@ -83,6 +83,13 @@ with DAG(
         """
     )
 
+    trend_forecast = BashOperator(
+        task_id="trend_forecast",
+        bash_command="""
+        cd /opt/airflow/project &&
+        python -m analytics.trend_forecast
+        """
+    )
 
     (
         fetch_news
@@ -92,6 +99,7 @@ with DAG(
         >> trend_scoring
         >> leaderboard
         >> unified_trends
+        >> trend_forecast 
         >> ai_summary
         >> upload_to_minio
     )
